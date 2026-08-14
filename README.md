@@ -18,13 +18,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEVELOPMENT-PATH-2025)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=6A0DAD&style=flat-square)
-![Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square&color=8A2BE2&logo=github)
-![Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=flat-square&color=5D3FD3&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=DEVELOPMENT-PATH-2025&label=Profile%20Views&color=6A0DAD&style=flat-square)
+![Followers](https://img.shields.io/github/followers/DEVELOPMENT-PATH-2025?label=Followers&style=flat-square&color=8A2BE2&logo=github)
+![Stars](https://img.shields.io/github/stars/DEVELOPMENT-PATH-2025?label=Stars&style=flat-square&color=5D3FD3&logo=github)
 
 </div>
 
@@ -115,7 +115,7 @@ An intelligent assessment platform leveraging the **Google Gemini API** to auto-
 | **Performance** | Optimized API response streaming for low-latency AI content delivery |
 | **Security** | Secure API key handling and server-side request validation |
 | **Impact** | Automated assessment creation, reducing manual quiz-authoring time |
-| **Repository** | [github.com/your-username/q-genius](https://github.com/your-username/q-genius) |
+| **Repository** | [github.com/DEVELOPMENT-PATH-2025/q-genius](https://github.com/DEVELOPMENT-PATH-2025/q-genius) |
 
 Q-Genius demonstrates applied LLM integration in a real product context — combining structured prompt design with a responsive frontend to deliver adaptive, AI-generated assessments at scale.
 
@@ -134,7 +134,7 @@ A full-stack loan management system built with **Spring Boot**, modeling real-wo
 | **Performance** | Server-side rendering with optimized request routing |
 | **Security** | Server-side form validation and structured data persistence |
 | **Impact** | Simulated an enterprise-grade fintech workflow end-to-end |
-| **Repository** | [github.com/your-username/bajaj-finserv-loanapp](https://github.com/your-username/bajaj-finserv-loanapp) |
+| **Repository** | [github.com/DEVELOPMENT-PATH-2025/bajaj-finserv-loanapp](https://github.com/DEVELOPMENT-PATH-2025/bajaj-finserv-loanapp) |
 
 Built to reinforce enterprise Java backend patterns, this project involved diagnosing and resolving production-style issues such as templating dependency misconfigurations causing redirect failures.
 
@@ -153,7 +153,7 @@ A modular backend management system architected around clean layered design (Con
 | **Performance** | Optimized query patterns for relational data access |
 | **Security** | Structured exception handling and input validation layers |
 | **Impact** | Reinforced enterprise backend design patterns and API design fundamentals |
-| **Repository** | [github.com/your-username/enterprise-java-backend](https://github.com/your-username/enterprise-java-backend) |
+| **Repository** | [github.com/DEVELOPMENT-PATH-2025/enterprise-java-backend](https://github.com/DEVELOPMENT-PATH-2025/enterprise-java-backend) |
 
 Designed to mirror production backend architecture, emphasizing separation of concerns and maintainable service-layer design.
 
@@ -172,7 +172,7 @@ A comprehensive academic project submission and evaluation portal supporting mul
 | **Performance** | Real-time updates via Firebase with time-based presentation-slot locking |
 | **Security** | Role-based access control and authenticated Firebase workflows |
 | **Impact** | Streamlined minor/major project submission and evaluation with AI-assisted SDG detection and exportable PDF/Excel reports |
-| **Repository** | [github.com/your-username/institute-project-portal](https://github.com/your-username/institute-project-portal) |
+| **Repository** | [github.com/DEVELOPMENT-PATH-2025/institute-project-portal](https://github.com/DEVELOPMENT-PATH-2025/institute-project-portal) |
 
 A production-oriented academic platform combining structured workflow logic with AI-assisted classification and automated reporting.
 
@@ -191,7 +191,7 @@ A Blinkit/Zepto-inspired hyperlocal delivery platform designed and architected f
 | **Performance** | WebSocket-based live order status updates |
 | **Security** | Firebase Auth-based user authentication and secure payment integration via Razorpay |
 | **Impact** | End-to-end system design covering payments, geolocation, and live tracking |
-| **Repository** | [github.com/your-username/smartcart](https://github.com/your-username/smartcart) |
+| **Repository** | [github.com/DEVELOPMENT-PATH-2025/smartcart](https://github.com/DEVELOPMENT-PATH-2025/smartcart) |
 
 A self-directed systems design exercise covering the full commerce stack — from authentication and payments to real-time geolocation tracking.
 
@@ -282,10 +282,10 @@ Worked on Java-based application development, strengthening object-oriented desi
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1744%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20C%2FC%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1744%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DEVELOPMENT-PATH-2025)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/DEVELOPMENT-PATH-2025)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20C%2FC%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/DEVELOPMENT-PATH-2025)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/DEVELOPMENT-PATH-2025)
 
 </div>
 
@@ -295,12 +295,12 @@ Worked on Java-based application development, strengthening object-oriented desi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=8A2BE2&text_color=E0D4FF&ring_color=6A0DAD" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0D0221&stroke=6A0DAD&ring=A855F7&fire=8A2BE2&currStreakLabel=E0D4FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DEVELOPMENT-PATH-2025&show_icons=true&theme=dark&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=8A2BE2&text_color=E0D4FF&ring_color=6A0DAD" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVELOPMENT-PATH-2025&theme=dark&hide_border=true&background=0D0221&stroke=6A0DAD&ring=A855F7&fire=8A2BE2&currStreakLabel=E0D4FF" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E0D4FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPMENT-PATH-2025&layout=compact&theme=dark&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E0D4FF" width="48%"/>
 
 </div>
 
@@ -310,7 +310,7 @@ Worked on Java-based application development, strengthening object-oriented desi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=DEVELOPMENT-PATH-2025&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
 </div>
 
@@ -320,7 +320,7 @@ Worked on Java-based application development, strengthening object-oriented desi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0D0221&color=A855F7&line=8A2BE2&point=E0D4FF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVELOPMENT-PATH-2025&theme=react-dark&bg_color=0D0221&color=A855F7&line=8A2BE2&point=E0D4FF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -330,7 +330,7 @@ Worked on Java-based application development, strengthening object-oriented desi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/DEVELOPMENT-PATH-2025/DEVELOPMENT-PATH-2025/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
@@ -370,7 +370,7 @@ current_focus:
 
 [![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEVELOPMENT-PATH-2025)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
