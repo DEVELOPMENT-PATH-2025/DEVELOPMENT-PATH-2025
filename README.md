@@ -1,181 +1,377 @@
 <div align="center">
 
-# Hi 👋, I'm Amritanshu Tiwari
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2b0b5e,100:6a0dad&height=280&section=header&text=Amritanshu%20Tiwari&fontSize=52&fontColor=E0D4FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-### A passionate developer from Bhopal
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+systems;Engineering+AI-powered+products;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Turning+LeetCode+grind+into+production+code;Open+to+SDE+Internship+Opportunities+2027" alt="Typing SVG" />
+</a>
 
-</div>
+<br/>
 
-## 🚀 About Me
+[![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=flat-square&logo=googlescholar&logoColor=E0D4FF)](#)
+[![RGPV](https://img.shields.io/badge/RGPV-SISTEC%20Bhopal-4B0082?style=flat-square&logo=bookstack&logoColor=E0D4FF)](#)
+[![Graduating](https://img.shields.io/badge/Graduating-2027-8A2BE2?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/📍-Bhopal,%20India-5D3FD3?style=flat-square)](#)
 
-Computer Science undergraduate with hands-on experience building scalable distributed systems, concurrent Java
-backends, and AI-integrated full-stack applications. Proficient in data structures, algorithms, object-oriented design, and
-RESTful microservices architecture using Java, Spring Boot, Node.js, and React.js. Demonstrated ability to architect
-production-grade systems with measurable performance improvements. HackerRank 5-star rated in C/C++. 
+<br/>
 
-## 🚀 Projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
-| Project | Description | Links |
-|---|---|---|
-| Q-Genius– AI-Powered Assessment Platform |  Built an AI-driven full-stack web application that automates assessment and question paper generation, reducing
-creation time from 10–15 hours to 15 minutes (95% time reduction).– Integrated Google Gemini API for NLP and Tesseract.js OCR for text recognition, enabling automatic generation
-of syllabus-aligned question papers.– Implemented serverless architecture with Firebase Authentication for role-based access control (RBAC) and
-deployed on Vercel with CI/CD pipeline, achieving 99.9% uptime.– Developed an automated email notification system using Mailgun API and a real-time analytics dashboard using
-Recharts for performance monitoring. | [Live](https://github.com/DEVELOPMENT-PATH-2025/Q-Genius_Version_2.git) / [GitHub](https://github.com/DEVELOPMENT-PATH-2025/Q-Genius_Version_2.git) |
-| Enterprise Java Backend Management System | Developed an enterprise-grade microservices application using Java, Spring Boot, Spring MVC, Hibernate ORM,
-and MySQL, following MVC design pattern and RESTful API architecture.– Implemented Hibernate JPA and Spring Data JPA repositories, reducing average query execution time by 30%
-through efficient indexing and lazy loading.– Applied advanced Java concepts including multithreading, Java Collections Framework, dependency injection via
-Spring IoC Container, and managed builds using Maven. | [Live](https://github.com/DEVELOPMENT-PATH-2025/E-Commerce_Java_full-_stack_website.git) / [GitHub](https://github.com/DEVELOPMENT-PATH-2025/E-Commerce_Java_full-_stack_website.git) |
+<br/>
 
-### Q-Genius– AI-Powered Assessment Platform
-
-### Enterprise Java Backend Management System
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Sagar Institute of Science, Technology & Engineering (SISTEC) | Bachelor of Technology | 2023-08 - 2027-05 |
-
-### Bachelor of Technology in  Computer Science Engineering
-*Sagar Institute of Science, Technology & Engineering (SISTEC)*
-
-Cisco CCNA 1, 2 & 3– Introduction to Networks; Switching, Routing & Wireless Essentials; Enterprise Networking,
-Security & Automation (2025)
-
-SUPER 50 Member– Selected among top 50 high-performing students at SISTEC for academic excellence
-
-LeetCode– Rating 1744 (Top 5% globally)
-
-Python Essentials 1 & 2– Cisco Networking Academy (NetAcad) (2025) AI/ML Certifications– Introduction to
-Modern AI (Generative AI & LLMs), Apply AI: Analyze Customer Reviews (2025)
-
-## 💼 Internships
-
-| Company | Position | Duration |
-|---|---|---|
-| Indian Institute of Technology (IIT), Ropar | MERN Stack Developer Intern | 2026-02 - 2026-05 |
-| Zidio Development | Java Full Stack Developer Intern | 2026-03 - 2026-05 |
-
-### MERN Stack Developer Intern at Indian Institute of Technology (IIT), Ropar
-
- Developed full-stack web application features using MongoDB, Express.js, React.js, and Node.js (MERN Stack) in
-an iterative agile environment.– Designed and implemented responsive, accessible UI components in React.js deployed on Vercel with optimized
-build pipelines for fast page load performance.
-– Integrated RESTful APIs with frontend state management, improving application reliability and reducing
-data-fetch latency across critical user workflows.
-
-### Java Full Stack Developer Intern at Zidio Development
-
-– Developed and deployed full-stack Java web applications using Core Java, JSP, Jakarta EE, and MySQL following
-industry-standard software development practices.– Designed optimized relational database schemas and wrote efficient SQL queries with indexing strategies for robust,
-high-performance backend functionality.– Managed project builds with Maven and maintained version-controlled repositories via Git in an agile team
-environment with iterative feature delivery.
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **amritanshutiwari3005@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=6A0DAD&style=flat-square)
+![Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square&color=8A2BE2&logo=github)
+![Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=flat-square&color=5D3FD3&logo=github)
 
 </div>
 
-## 🌐 Connect with Me
+---
+
+## 🧠 About Me
+
+<div align="center">
+<img src="https://img.shields.io/badge/-Software%20Engineering-2E1065?style=flat-square" />
+<img src="https://img.shields.io/badge/-AI%2FML%20Engineering-4B0082?style=flat-square" />
+<img src="https://img.shields.io/badge/-Full%20Stack%20Development-6A0DAD?style=flat-square" />
+<img src="https://img.shields.io/badge/-Product%20Engineering-8A2BE2?style=flat-square" />
+</div>
+
+<br/>
+
+I'm a Computer Science undergraduate at **SISTEC Bhopal (RGPV)**, building production-grade full-stack systems and AI-integrated applications with a strong bias toward clean architecture, measurable performance, and shipped product outcomes. My engineering foundation spans **Java/Spring Boot backend systems**, **React/Next.js frontends**, and **relational data design**, layered with hands-on experience integrating **LLM APIs** (Google Gemini, Claude) into real product workflows.
+
+I approach engineering with a product mindset — every system I build is evaluated not just on whether it works, but on whether it scales, secures user data correctly, and solves a genuine problem. I'm an active competitive programmer (**LeetCode Top 5% globally**), a **Microsoft Learn Student Ambassador (Beta)**, and a **Google Developer Groups Student Ambassador**, contributing to technical communities while continuously sharpening data structures & algorithms fundamentals.
+
+**🎯 Open To:**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/DEVELOPMENT-PATH-2025)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://linkedin.com/in/www.linkedin.com/in/%20amritanshu-tiwari-024632290)&nbsp;&nbsp;&nbsp;[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/https://www.codechef.com/users/amritanshu64)&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/https://www.hackerrank.com/profile/amritanshutiwar1)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/https://leetcode.com/u/aarsh123456/)&nbsp;&nbsp;&nbsp;[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/https://www.hackerearth.com/@amritanshutiwari3005/)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/amritanshutuoy5)
+| Software Engineering Internships | AI/ML Engineering Roles | Full Stack Developer Roles | Open Source Collaboration |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
-## 🛠️ Skills & Technologies
+---
 
-### 💻 Programming Languages
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Languages**
 
-### 💻 Frontend Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,ts,html,css" />
+</div>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)&nbsp;&nbsp;&nbsp;![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
 
-### 💻 Mobile App Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui" />
+</div>
 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+**Backend & Databases**
 
-### 💻 Backend Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,firebase" />
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;&nbsp;![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;&nbsp;&nbsp;![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;&nbsp;&nbsp;![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;&nbsp;&nbsp;![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Cloud, DevOps & Tooling**
 
-### 💻 Database
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel,postman,linux,eclipse,vscode" />
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;&nbsp;&nbsp;![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;&nbsp;&nbsp;![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+---
 
-### 💻 Data Visualization
-
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)&nbsp;&nbsp;&nbsp;![CanvasJS](https://img.shields.io/badge/CanvasJS-A32E25?style=for-the-badge&logo=canvasjs&logoColor=white)
-
-### 💻 DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;&nbsp;&nbsp;![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;&nbsp;&nbsp;![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;&nbsp;&nbsp;![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 💻 Backend as a Service (BaaS)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;&nbsp;&nbsp;![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### 💻 Testing
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 💻 Software
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;&nbsp;![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-
-### 💻 Static Site Generators
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 💻 Other
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-## 📊 GitHub Stats & Activity
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
-<!-- Visitor Count Badge: GitHub username required -->
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **LLM API Integration** | ⭐⭐⭐⭐☆ | Integrated Google Gemini API and Claude API into production Next.js/React applications for content generation and document intelligence |
+| **AI-Assisted Automation** | ⭐⭐⭐⭐☆ | Built SDG (Sustainable Development Goal) auto-detection pipelines for academic project classification |
+| **Prompt Engineering** | ⭐⭐⭐☆☆ | Designed structured prompts for reliable JSON-based structured outputs in AI-powered assessment tools |
+| **AI-Powered Product Design** | ⭐⭐⭐⭐☆ | Architected end-to-end AI assessment platforms combining LLM reasoning with traditional full-stack systems |
+| **Applied Machine Learning Foundations** | ⭐⭐⭐☆☆ | Working knowledge of ML fundamentals applied within product engineering contexts |
 
-<!-- GitHub Trophy: GitHub username required -->
+</div>
 
-<!-- GitHub Stats Card: GitHub username required -->
+---
 
-<!-- Top Skills Card: GitHub username required -->
+## 🚀 Featured Projects
 
-<!-- GitHub Streak Stats: GitHub username required -->
+<details>
+<summary><b>🎓 Q-Genius — AI-Powered Assessment Platform</b></summary>
+<br/>
 
-<!-- LeetCode Stats Card: LeetCode username required -->
+An intelligent assessment platform leveraging the **Google Gemini API** to auto-generate, evaluate, and adapt quiz content in real time, built on a modern **Next.js** frontend.
 
-<!-- Twitter Badge: Twitter username required (provide in Social Links section) -->
+| Attribute | Detail |
+|---|---|
+| **Stack** | Next.js, React, Google Gemini API, Tailwind CSS |
+| **Scale** | Multi-user assessment sessions with dynamic question generation |
+| **Performance** | Optimized API response streaming for low-latency AI content delivery |
+| **Security** | Secure API key handling and server-side request validation |
+| **Impact** | Automated assessment creation, reducing manual quiz-authoring time |
+| **Repository** | [github.com/your-username/q-genius](https://github.com/your-username/q-genius) |
 
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+Q-Genius demonstrates applied LLM integration in a real product context — combining structured prompt design with a responsive frontend to deliver adaptive, AI-generated assessments at scale.
 
-<!-- MEDIUM_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- MEDIUM_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+</details>
 
-<!-- BLOG_POST_LIST:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- BLOG_POST_LIST:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
+<details>
+<summary><b>🏦 Bajaj Finserv Loan Application System</b></summary>
+<br/>
+
+A full-stack loan management system built with **Spring Boot**, modeling real-world financial workflows including application intake, validation, and status tracking.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Java, Spring Boot, Thymeleaf, MySQL |
+| **Scale** | Multi-stage loan application workflow with role-based views |
+| **Performance** | Server-side rendering with optimized request routing |
+| **Security** | Server-side form validation and structured data persistence |
+| **Impact** | Simulated an enterprise-grade fintech workflow end-to-end |
+| **Repository** | [github.com/your-username/bajaj-finserv-loanapp](https://github.com/your-username/bajaj-finserv-loanapp) |
+
+Built to reinforce enterprise Java backend patterns, this project involved diagnosing and resolving production-style issues such as templating dependency misconfigurations causing redirect failures.
+
+</details>
+
+<details>
+<summary><b>🏢 Enterprise Java Backend Management System</b></summary>
+<br/>
+
+A modular backend management system architected around clean layered design (Controller–Service–Repository) for enterprise-style data operations.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Java, Spring Boot, MySQL, REST APIs |
+| **Scale** | Modular, layered architecture supporting extensible business logic |
+| **Performance** | Optimized query patterns for relational data access |
+| **Security** | Structured exception handling and input validation layers |
+| **Impact** | Reinforced enterprise backend design patterns and API design fundamentals |
+| **Repository** | [github.com/your-username/enterprise-java-backend](https://github.com/your-username/enterprise-java-backend) |
+
+Designed to mirror production backend architecture, emphasizing separation of concerns and maintainable service-layer design.
+
+</details>
+
+<details>
+<summary><b>🎓 Institute Project Management Portal</b></summary>
+<br/>
+
+A comprehensive academic project submission and evaluation portal supporting multi-role access for students, faculty coordinators, and administrators.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | TypeScript, Next.js 14, Firebase, Vercel |
+| **Scale** | Three-tier role-based system (Student / Faculty / Admin) across an institution |
+| **Performance** | Real-time updates via Firebase with time-based presentation-slot locking |
+| **Security** | Role-based access control and authenticated Firebase workflows |
+| **Impact** | Streamlined minor/major project submission and evaluation with AI-assisted SDG detection and exportable PDF/Excel reports |
+| **Repository** | [github.com/your-username/institute-project-portal](https://github.com/your-username/institute-project-portal) |
+
+A production-oriented academic platform combining structured workflow logic with AI-assisted classification and automated reporting.
+
+</details>
+
+<details>
+<summary><b>🛒 SmartCart — Hyperlocal Grocery Delivery Platform</b></summary>
+<br/>
+
+A Blinkit/Zepto-inspired hyperlocal delivery platform designed and architected for real-time order tracking and fast checkout flows.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Spring Boot, React, Redux Toolkit, Firebase, Razorpay, WebSocket, Leaflet.js |
+| **Scale** | Designed for real-time multi-user order and delivery tracking |
+| **Performance** | WebSocket-based live order status updates |
+| **Security** | Firebase Auth-based user authentication and secure payment integration via Razorpay |
+| **Impact** | End-to-end system design covering payments, geolocation, and live tracking |
+| **Repository** | [github.com/your-username/smartcart](https://github.com/your-username/smartcart) |
+
+A self-directed systems design exercise covering the full commerce stack — from authentication and payments to real-time geolocation tracking.
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Java Full Stack Developer Intern · Zidio Development**
+`Internship`
+
+Contributed to full-stack feature development using the Java and React ecosystem, working across backend service logic and frontend integration.
+
+- Built and maintained REST APIs using Java and Spring Boot
+- Integrated frontend components with backend services
+- Participated in debugging and performance-tuning of full-stack modules
+
+`Java` `Spring Boot` `React` `REST APIs`
+
+---
+
+**MERN Stack Development Intern · IIT Ropar**
+`Internship`
+
+Developed full-stack web application modules using the MERN stack under a structured academic-industry internship program.
+
+- Built RESTful services with Node.js and Express
+- Designed MongoDB schemas for application data models
+- Developed responsive React-based user interfaces
+
+`MongoDB` `Express` `React` `Node.js`
+
+---
+
+**Java Developer Intern · Coding Samurai**
+`Internship`
+
+Worked on Java-based application development, strengthening object-oriented design and backend logic implementation skills.
+
+- Implemented core Java modules and business logic
+- Applied OOP principles to structure maintainable codebases
+- Debugged and resolved functional issues across modules
+
+`Java` `OOP` `Backend Development`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏅 **LeetCode Top 5% Globally** | Achieved a competitive rating of **1744**, placing in the top 5% of LeetCode's global user base |
+| ⭐ **HackerRank 5-Star (C/C++)** | Earned 5-star proficiency rating in C and C++ problem-solving tracks |
+| 🎖️ **Microsoft Learn Student Ambassador (Beta)** | Selected as a Beta MLSA, representing Microsoft's global student technical community program |
+| 🌐 **Google Developer Groups Student Ambassador** | Active community ambassador for Google Developer Groups on Campus |
+| 🌐 **CCNA 1/2/3 Certified** | Completed Cisco Certified Network Associate modules 1 through 3 |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**AWS**
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Oracle**
+
+![Oracle Certified](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
+
+**Cisco**
+
+![CCNA 1](https://img.shields.io/badge/Cisco-CCNA%201-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA 2](https://img.shields.io/badge/Cisco-CCNA%202-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA 3](https://img.shields.io/badge/Cisco-CCNA%203-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1744%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star%20C%2FC%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-username)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=8A2BE2&text_color=E0D4FF&ring_color=6A0DAD" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0D0221&stroke=6A0DAD&ring=A855F7&fire=8A2BE2&currStreakLabel=E0D4FF" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E0D4FF" width="48%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0D0221&color=A855F7&line=8A2BE2&point=E0D4FF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Advanced Data Structures & Algorithms (Striver's A2Z Sheet)
+    - AWS Cloud Fundamentals & Distributed Systems Concepts
+    - Python for backend and AI/ML workflows
+
+  building:
+    - Bajaj Finserv Loan Application (Spring Boot)
+    - Q-Genius AI Assessment Platform enhancements
+    - Open-source contribution portfolio
+
+  exploring:
+    - LLM-integrated product architectures
+    - Distributed systems design patterns
+    - Cloud-native backend deployment (AWS)
+
+  open_to:
+    - SDE Internship 2027 (Amazon and other top-tier companies)
+    - AI/ML Engineering opportunities
+    - Full Stack Developer roles
+    - Open source collaboration
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D3FD3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
 
@@ -183,10 +379,8 @@ environment with iterative feature delivery.
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+*"Code is the closest thing we have to turning thought directly into impact."*
 
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:2b0b5e,100:0d0221&height=150&section=footer" width="100%"/>
 
 </div>
