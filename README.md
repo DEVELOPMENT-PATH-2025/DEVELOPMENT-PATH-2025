@@ -343,7 +343,7 @@ current_focus:
   learning:
     - Advanced Data Structures & Algorithms (Striver's A2Z Sheet)
     - AWS Cloud Fundamentals & Distributed Systems Concepts
-    - Python for backend and AI/ML workflows
+    - Java for backend and AI/ML workflows Using Spring AI
 
   building:
     - Bajaj Finserv Loan Application (Spring Boot)
@@ -357,7 +357,7 @@ current_focus:
 
   open_to:
     - SDE Internship 2027 (Amazon and other top-tier companies)
-    - AI/ML Engineering opportunities
+    - Software Engineering opportunities
     - Full Stack Developer roles
     - Open source collaboration
 ```
